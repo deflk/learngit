@@ -1,0 +1,3 @@
+options = ['subway', 'bicycle', 'honda motorcycle', 'bus', 'walk']
+message = "I would like to own a " + options[2].title()
+print(message)
